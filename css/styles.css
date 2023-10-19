@@ -1,0 +1,12 @@
+iframe{
+    width: 100%;
+    min-width: 576;
+}
+
+.nav-link{
+    color: whitesmoke;
+}
+
+.nav-link:hover{
+    color: white;
+}
