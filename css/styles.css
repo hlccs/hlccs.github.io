@@ -15,3 +15,6 @@ iframe{
 .dropdown-item:hover{
     color: darkslategray !important;
 }
+h1{
+    text-align: center;
+}
