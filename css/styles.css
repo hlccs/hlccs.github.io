@@ -11,3 +11,7 @@ iframe{
 .nav-link:hover,.dropdown-toggle:hover{
     color: white !important;
 }
+
+.dropdown-item:hover{
+    color: darkslategray !important;
+}
