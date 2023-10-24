@@ -3,10 +3,10 @@ iframe{
     min-width: 576;
 }
 
-.nav-link{
-    color: whitesmoke;
+.nav-link,.dropdown-item,.dropdown-toggle{
+    color: darkgrey !important;
 }
 
-.nav-link:hover{
-    color: white;
+.nav-link:hover,.dropdown-toggle:hover{
+    color: white !important;
 }
