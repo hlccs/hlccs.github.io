@@ -21,9 +21,3 @@ h1{
 .title{
     background-color: #0952ca;
 }
-
-.navbar.nav {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-}
